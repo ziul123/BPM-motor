@@ -47,5 +47,6 @@ CREATE TABLE Gateway(
 	FOREIGN KEY (proc_false) REFERENCES Vertice(id)
 );
 
+--test
 
 
